@@ -4,7 +4,7 @@
 #
 
 
-
+AAAAAAAAAAAAAAAAAAAAAA
 
 # The inet_interfaces parameter specifies the network interface
 # addresses that this mail system receives mail on.  By default,
@@ -16,3 +16,5 @@
 #
 # Note: you need to stop/start Postfix when this parameter changes.
 #
+
+BBBBBBBBBBBBBBB
